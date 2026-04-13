@@ -1,7 +1,7 @@
 # gabrielmramos
 # 👋 Olá! Eu sou o Gabriel Magalhães Ramos
 
-🎓 Estudante de **Sistemas de Informação — UNIPAC**  
+🎓 Estudante de **Sistemas de Informação
 💻 Futuro **Full Stack Developer**  
 🚀 Estudando atualmente: **Java, HTML, CSS e JavaScript**  
 📚 Construindo meus primeiros projetos e evoluindo na área de TI  
@@ -28,4 +28,5 @@
 
 ### 📫 Conecte-se comigo
 **LinkedIn:**   https://www.linkedin.com/in/gabriel-magalhães-ramos-00643138a?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
 **Email:** grmaga7@gmail.com
