@@ -1,7 +1,7 @@
 # gabrielmramos
 # 👋 Olá! Eu sou o Gabriel Magalhães Ramos
 
-🎓 Estudante de **Sistemas de Informação
+🎓 Estudante de Sistemas de Informação
 💻 Futuro **Full Stack Developer**  
 🚀 Estudando atualmente: **Java, HTML, CSS e JavaScript**  
 📚 Construindo meus primeiros projetos e evoluindo na área de TI  
