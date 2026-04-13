@@ -1,32 +1,67 @@
-# gabrielmramos
-# 👋 Olá! Eu sou o Gabriel Magalhães Ramos
+# 👋 Olá, eu sou o Gabriel Magalhães Ramos
 
-🎓 Estudante de Sistemas de Informação
-💻 Futuro **Full Stack Developer**  
-🚀 Estudando atualmente: **Java, HTML, CSS e JavaScript**  
-📚 Construindo meus primeiros projetos e evoluindo na área de TI  
-🔧 Focado em aprender, praticar e me tornar um desenvolvedor completo  
-
----
-
-### 💻 Tecnologias que estou estudando
-- Java  
-- HTML  
-- CSS  
-- JavaScript  
-- Git & GitHub  
+💻 Futuro **Desenvolvedor Full Stack**  
+🎓 **Estudante de Sistemas de Informação**  
+🚀 Apaixonado por tecnologia, desenvolvimento Web e evolução contínua  
+📚 Atualmente estudando: **Java, HTML, CSS, JavaScript e Git/GitHub**  
+🔧 Construindo meus primeiros projetos e desenvolvendo minhas habilidades como dev  
 
 ---
 
-### 🎯 Objetivos atuais
-- Criar projetos para meu portfólio  
-- Evoluir no back‑end com Java  
-- Aprender frameworks modernos  
-- Desenvolver aplicações completas Full Stack  
+## 🚀 Tecnologias e Ferramentas
+
+<div style="display: inline_block"><br>
+
+  <img align="center" alt="Java" height="40" width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+  <img align="center" alt="HTML" height="40" width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+  <img align="center" alt="CSS" height="40" width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <img align="center" alt="JavaScript" height="40" width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+
+  <img align="center" alt="Git" height="40" width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
+  <img align="center" alt="GitHub" height="40" width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+
+</div>
 
 ---
 
-### 📫 Conecte-se comigo
-**LinkedIn:**   https://www.linkedin.com/in/gabriel-magalhães-ramos-00643138a?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+## 📊 Estatísticas do GitHub
 
+<div>
+  <img height="160em" 
+       src="https://github-readme-stats.vercel.app/api?username=gabrielmramos&show_icons=true&theme=tokyonight"/>
+
+  <img height="160em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmramos&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+## 📂 Projetos (em desenvolvimento)
+
+### 📌 To‑Do List  
+Aplicação simples de lista de tarefas usando JS.  
+👉 *Repositório:* (adicione o link aqui)
+
+### 📌 Login Page  
+Página de login com validações.  
+👉 *Repositório:* (adicione o link aqui)
+
+### 📌 Simple Node API  
+API básica construída em Node.js.  
+👉 *Repositório:* (adicione o link aqui)
+
+---
+
+## 📫 Como entrar em contato
+**LinkedIn:** https://www.linkedin.com/in/gabriel-magalhães-ramos-00643138a  
 **Email:** grmaga7@gmail.com
